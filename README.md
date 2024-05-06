@@ -1,0 +1,2 @@
+# palidrome
+Palidrome in python
